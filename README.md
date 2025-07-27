@@ -35,7 +35,7 @@ The app is structured using the **Model-View-ViewModel (MVVM)** pattern:
       <br/><b>Home Screen</b>
     </td>
     <td align="center">
-      <img src="screenshots/detailsSnapNews.png.jpg" alt="Details Screen" width="300"/>
+      <img src="Screenshots/detailsSnapNews.png.jpg" alt="Details Screen" width="300"/>
       <br/><b>Details Screen</b>
     </td>
   </tr>
