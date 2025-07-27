@@ -31,7 +31,7 @@ The app is structured using the **Model-View-ViewModel (MVVM)** pattern:
 <table>
   <tr>
     <td align="center">
-      <img src="screenshots/SnapNewsHome.png.jpg" alt="Home Screen" width="300"/>
+      <img src="Screenshots/SnapNewsHome.png.jpg" alt="Home Screen" width="300"/>
       <br/><b>Home Screen</b>
     </td>
     <td align="center">
